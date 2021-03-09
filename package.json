@@ -16,7 +16,7 @@
   "bin": {
     "async-define-bundle": "bin/async-define-bundle.js"
   },
-  "repository": "git@github.com:tes/async-define.git",
+  "repository": "git@github.com:sithmel/async-define.git",
   "author": "Maurizio Lupo <maurizio.lupo@gmail.com>",
   "license": "MIT",
   "devDependencies": {
